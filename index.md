@@ -5,7 +5,7 @@ layout: default
 # About me
 I am a software engineer at [Intracom-Telecom](https://www.intracom-telecom.com/) and M.S. student at [University of Athens](https://www.di.uoa.gr/cs). Before that I was studying computer science at bachelor level at University of Athens and completed my [thesis](https://pergamos.lib.uoa.gr/item/uoadl:3413200) under the supervision of [Vasileios Karakostas](https://cgi.di.uoa.gr/~vkarakos/).
 
-[CV](assets/GMoulkiotis-2.pdf)
+[CV](assets/GMoulkiotis)
 
 # Interests
 - Software Engineering
