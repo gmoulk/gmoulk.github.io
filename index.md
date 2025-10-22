@@ -15,7 +15,7 @@ I am a software engineer at [Intracom-Telecom](https://www.intracom-telecom.com/
 
 ## Education
 - M.Sc. Computer Science University of Athens(Specialization in AI) - Currently
-- B.Sc. Computer Science University of Athens - 2024
+- B.Sc. Informatics and Telecommunications University of Athens - 2024
 
 
 ### Experience
